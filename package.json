@@ -1,0 +1,19 @@
+{
+  "name": "@belongs/tronutil",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/base-x": "^1.0.29",
+    "@types/node": "^10.12.10"
+  },
+  "dependencies": {
+    "base-x": "^3.0.5",
+    "js-sha3": "^0.8.0"
+  }
+}
